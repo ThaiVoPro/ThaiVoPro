@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi, I'm ThaiTanVo!<br>AI Engineer & Researcher<br>Passionate about AI, Machine Learning, LLMs, and Generative AI.
+<h1 align="center">👋 Hi, I'm Thai Vo!</h1>
+
+<p align="center">
+  <i>AI Engineer & Researcher</i> <br/>
+  Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>LLMs</strong>, and <strong>Generative AI</strong>.
+</p>
 
 
 ## 🌐 Socials:
