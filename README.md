@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>AI Engineer & Researcher</i> <br/>
-  Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>LLMs</strong>, and <strong>Generative AI</strong>.
+  Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>LLMs</strong>.
 </p>
 
 
